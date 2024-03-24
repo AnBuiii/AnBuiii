@@ -2,11 +2,11 @@
 
 # 🚀 About Me:
 👋 Hi there, I’m @AnBuiii <br>
-🎓 I'm studying for my bachelor's degree in Software Engineering at University of Information Technology HCMC (UIT)
-🔭 I’m currently a Software Engineer at ExecutionLab, a technology company in Viet Nam<br>
-💪 I'm mobile developer with deep knowledge in Kotlin, Android Native
+🎓 I'm studying for my bachelor's degree in Software Engineering at University of Information Technology HCMC (UIT) <br>
+🔭 I’m currently a Software Engineer at ExecutionLab, a technology company in Viet Nam <br>
+💪 I'm mobile developer with deep knowledge in Kotlin, Android Native <br>
 📱 I’m interested in Mobile Development, Kotlin, Flutter, Jetpack Compose, Kotlin Multiplatform, ...<br>
-💬 If you want to collaborate with me, send me a message<br>
+💬 If you want to collaborate with me, send me a message <br>
 
 # 💻 Tech Stack:
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
